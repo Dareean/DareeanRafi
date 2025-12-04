@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+My journey as a developer began with an interest in what meets the eye. Initially, my focus was on the interface how an application feels in the hands of users through UI/UX design in Figma. I enjoyed the visual process, but over time I felt something was missing. I felt like an architect who could only draw the facade of a building, but didn't understand how the foundations and pillars supported the load.<br>
 
+That dissatisfaction sparked the biggest evolution in my technical career.<br>
+
+I decided to dismantle the ‘black box’ behind the scenes. I was no longer satisfied with just throwing data at the server; I had to know how the server processed it. This transformation happened intensively. I disciplined myself to dive into the complex Back-End ecosystem. I learned that code is not just syntax, but about structure and security.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darenrafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dareean-ahmad-raffi-mardin-72247a229/) 
